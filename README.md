@@ -1,4 +1,3 @@
-# Dataset Name
-cereal contents
-## Description
+# 6 distribution data sets
+## cereal nutrition
 Under U.S. Food and Drug Administration (FDA) regulations, manufacturers are required to list the amounts of certain nutrients in their foods, such as calories, sugar, fat, and carbohydrates. This table shows the "Nutrition Facts" panel information for one cup of each of 21 different breakfast cereals.
